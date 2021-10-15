@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://static.slab.com/prod/uploads/0tkl9ybv/posts/images/MVHj0piWyIAmY_OOKH9-WvRz.svg" alt="QuestDB" width="350"/>
 </p>
@@ -6,7 +5,6 @@
 <p align="center">
   <a href="#we-are-hiring"><img src="https://static.slab.com/prod/uploads/0tkl9ybv/posts/images/yzj_ZZsGRfzIGUPbX-fwxFel.svg" alt="we are hiring" width="80"/></a>
 </p>
-
 
 # 🌟 About us
 
@@ -105,7 +103,7 @@ We are always happy to have contributions to the project whether it is source co
 - Star our [Github repository](https://github.com/questdb/questdb)
 - Follow us on [Twitter](https://twitter.com/QuestDb)
 - Follow us on [Linkedin](https://www.linkedin.com/company/questdb/)
-- Subscribe to our Newsletter
+- Subscribe to our [Newsletter](https://questdb.io/community/)
 
 # 🌍 We are hiring!
 
