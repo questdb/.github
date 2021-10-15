@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="#we-are-hiring"><img src="https://static.slab.com/prod/uploads/0tkl9ybv/posts/images/yzj_ZZsGRfzIGUPbX-fwxFel.svg" alt="we are hiring" width="80"/></a>
+  <a href="#-we-are-hiring"><img src="https://static.slab.com/prod/uploads/0tkl9ybv/posts/images/yzj_ZZsGRfzIGUPbX-fwxFel.svg" alt="we are hiring" width="80"/></a>
 </p>
 
 # 🌟 About us
