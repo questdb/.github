@@ -1,10 +1,10 @@
 
 <p align="center">
-  <img src="https://static.slab.com/prod/uploads/0tkl9ybv/posts/images/k0EciMf5csHNz0rJpwgFSTOh.svg" alt="QuestDB" width="350"/>
+  <img src="https://static.slab.com/prod/uploads/0tkl9ybv/posts/images/MVHj0piWyIAmY_OOKH9-WvRz.svg" alt="QuestDB" width="350"/>
 </p>
 
 <p align="center">
-  <a href=""><img src="https://static.slab.com/prod/uploads/0tkl9ybv/posts/images/yzj_ZZsGRfzIGUPbX-fwxFel.svg" alt="we are hiring" width="80"/></a>
+  <a href="#we-are-hiring"><img src="https://static.slab.com/prod/uploads/0tkl9ybv/posts/images/yzj_ZZsGRfzIGUPbX-fwxFel.svg" alt="we are hiring" width="80"/></a>
 </p>
 
 
@@ -15,8 +15,6 @@ Hi! 👋 We're the team behind QuestDB, a high-performance open-source time seri
 <p align="center">
   <a href=""><img src="https://static.slab.com/prod/uploads/0tkl9ybv/posts/images/Gc4RnzPAgNMN5oX6OEv8Xz7F.png" alt="questdb"/></a>
 </p>
-
-![]()
 
 ## Why QuestDB?
 
@@ -35,15 +33,15 @@ Have a look at our open source projects
 </p>
 
 <p align="center">
-  <a href=""><img src="https://static.slab.com/prod/uploads/0tkl9ybv/posts/images/NGDhMB4XZC7ACppPJmNHcmtj.svg" alt="questdb website" width="350"/></a>
+  <a href="https://github.com/questdb/questdb.io"><img src="https://static.slab.com/prod/uploads/0tkl9ybv/posts/images/NGDhMB4XZC7ACppPJmNHcmtj.svg" alt="questdb website" width="350"/></a>
 </p>
 
 <p align="center">
-  <a href=""><img src="https://static.slab.com/prod/uploads/0tkl9ybv/posts/images/N8OBAe3WeNRZE3ITHvCJuGXT.svg" alt="pykit" width="350"/></a>
+  <a href="https://github.com/questdb/pykit"><img src="https://static.slab.com/prod/uploads/0tkl9ybv/posts/images/N8OBAe3WeNRZE3ITHvCJuGXT.svg" alt="pykit" width="350"/></a>
 </p>
 
 <p align="center">
-  <a href=""><img src="https://static.slab.com/prod/uploads/0tkl9ybv/posts/images/V74Lo6S61JfnAyCiUSXQSTVA.svg" alt="benchmarking suite" width="350"/></a>
+  <a href="https://github.com/questdb/tsbs"><img src="https://static.slab.com/prod/uploads/0tkl9ybv/posts/images/V74Lo6S61JfnAyCiUSXQSTVA.svg" alt="benchmarking suite" width="350"/></a>
 </p>
 
 # 🚀 Product Roadmap
