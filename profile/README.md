@@ -59,7 +59,7 @@ Other project boards:
 - [Web console](https://github.com/questdb/questdb/projects/9)
 - [Integrations](https://Compatibility)
 - [PostgreSQL wire protocol](https://github.com/questdb/questdb/projects/7)
-- [InfluxDB line propocol](https://github.com/questdb/questdb/projects/6) (ILP)
+- [InfluxDB line protocol](https://github.com/questdb/questdb/projects/6) (ILP)
 
 Looking for a features that is not in our current roadmap?
 
