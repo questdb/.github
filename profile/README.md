@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="../.assets/MVHj0piWyIAmY_OOKH9-WvRz.svg" alt="QuestDB" width="350"/>
+  <img src=".assets/MVHj0piWyIAmY_OOKH9-WvRz.svg" alt="QuestDB" width="350"/>
 </p>
 
 <p align="center">
-  <a href="#-we-are-hiring"><img src="../.assets/yzj_ZZsGRfzIGUPbX-fwxFel.svg" alt="we are hiring" width="80"/></a>
+  <a href="#-we-are-hiring"><img src=".assets/yzj_ZZsGRfzIGUPbX-fwxFel.svg" alt="we are hiring" width="80"/></a>
 </p>
 
 # 🌟 About us
@@ -12,7 +12,7 @@ Hi! 👋 We're the team behind QuestDB, the high-performance open-source databas
 The entire project is built from scratch in Java and C++, with no dependencies, and is 100% free from garbage collection.
 
 <p align="center">
-  <a href="https://questdb.io/"><img src="../.assets/Gc4RnzPAgNMN5oX6OEv8Xz7F.png" alt="questdb"/></a>
+  <a href="https://questdb.io/"><img src=".assets/Gc4RnzPAgNMN5oX6OEv8Xz7F.png" alt="questdb"/></a>
 </p>
 
 ## Why QuestDB?
@@ -28,11 +28,11 @@ Query our [live demo](https://demo.questdb.io/) which includes a 1.6 billion row
 Here's QuestDB's main project repositories:
 
 <p align="center">
-  <a href="https://github.com/questdb/questdb/"><img src="../.assets/ES5pPn_j-U9csUOQQ-1ooJpJ.svg" alt="questdb" width="350"/></a>
+  <a href="https://github.com/questdb/questdb/"><img src=".assets/ES5pPn_j-U9csUOQQ-1ooJpJ.svg" alt="questdb" width="350"/></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/questdb/questdb.io"><img src="../.assets/NGDhMB4XZC7ACppPJmNHcmtj.svg" alt="questdb website" width="350"/></a>
+  <a href="https://github.com/questdb/questdb.io"><img src=".assets/NGDhMB4XZC7ACppPJmNHcmtj.svg" alt="questdb website" width="350"/></a>
 </p>
 
 
