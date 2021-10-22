@@ -8,7 +8,7 @@
 
 # 🌟 About us
 
-Hi! 👋 We're the team behind QuestDB, a high-performance open-source time series database. The entire code base of QuestDB was built from the ground up in Java and C++, with no dependencies, and is 100% free from garbage collection.
+Hi! 👋 We're the team behind QuestDB, the high-performance open-source time series database. The entire code base of QuestDB was built from the ground up in Java and C++, with no dependencies, and is 100% free from garbage collection.
 
 <p align="center">
   <a href=""><img src="https://static.slab.com/prod/uploads/0tkl9ybv/posts/images/Gc4RnzPAgNMN5oX6OEv8Xz7F.png" alt="questdb"/></a>
@@ -20,7 +20,7 @@ Hi! 👋 We're the team behind QuestDB, a high-performance open-source time seri
 - ⌚ Optimized for time series
 - 🔧 Implemented with SQL
 
-Query with our [live demo](https://demo.questdb.io/) datasets to get the first impression of QuestDB.
+Query with our [live demo](https://demo.questdb.io/) data sets to get a first impression of QuestDB.
 
 # 🔎 Our projects
 
@@ -78,7 +78,7 @@ You can start a discussion on [GitHub Discussions](https://github.com/questdb/qu
 - [Community Slack:](https://slack.questdb.io/) join technical discussions, ask questions, and meet other users!
 - [GitHub issues:](https://github.com/questdb/questdb/issues) report bugs or issues with QuestDB.
 - [GitHub discussions:](https://github.com/questdb/questdb/discussions) propose new features or show what you&#39;ve built.
-- [Stack Overflow:](https://stackoverflow.com/questions/tagged/questdb) look for common troubleshooting solutions.
+- [Stack Overflow:](https://stackoverflow.com/questions/tagged/questdb) watch our tag `questdb`, help the community, or look for common troubleshooting solutions.
 
 👥 **Enterprise customers**
 
