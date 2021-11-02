@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/questdb/.github/blob/main/profile/.assets/MVHj0piWyIAmY_OOKH9-WvRz.svg" alt="QuestDB" width="350"/>
+  <img src="https://static.slab.com/prod/uploads/0tkl9ybv/posts/images/6fLfZQVcUlqv5gadYoN-0Tpy.png" alt="QuestDB" width="350"/>
 </p>
+<h1 align="center">QuestDB</h1>
 
 <p align="center">
   <a href="#-we-are-hiring"><img src="https://github.com/questdb/.github/blob/main/profile/.assets/yzj_ZZsGRfzIGUPbX-fwxFel.svg" alt="we are hiring" width="80"/></a>
