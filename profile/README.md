@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="#-we-are-hiring"><img src="https://github.com/questdb/.github/blob/main/profile/.assets/yzj_ZZsGRfzIGUPbX-fwxFel.svg" alt="we are hiring" width="80"/></a>
+  <a href="#were-hiring"><img src="https://github.com/questdb/.github/blob/main/profile/.assets/yzj_ZZsGRfzIGUPbX-fwxFel.svg" alt="we are hiring" width="80"/></a>
 </p>
 
 QuestDB is a high-performance open source database for time series.
