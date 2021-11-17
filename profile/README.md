@@ -1,8 +1,6 @@
-# Hi 👋, we're the team behind QuestDB
+![Open Source QuestDB](/images/org_banner.png)
 
-<p align="center">
-  <img src="https://questdb.io/img/blog/2021-10-04/banner.png" alt="QuestDB"/>
-</p>
+## Hi 👋, we're the team behind QuestDB
 
 QuestDB is a high-performance open source database for time series.
 The project is built from scratch in Java and C++, with no dependencies, and is 100% free from garbage collection.
@@ -18,7 +16,7 @@ To get started, have a look at [good first issues](https://github.com/questdb/qu
 See what we're working on at our [public roadmap](https://github.com/orgs/questdb/projects/1/views/5) and [let us know](https://github.com/questdb/questdb/discussions) if you have any suggestions 🙇‍♂️.
 As a sign of our gratitude, we have [QuestDB swag](https://questdb.io/community) that we send out to our contributors 🙌.
 
-## We're hiring
+## 🌍 We're hiring
 
 We're on the lookout for talented people to join the QuestDB team in these roles:
 
