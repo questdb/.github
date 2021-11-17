@@ -1,6 +1,6 @@
-![Open Source QuestDB](/images/org_banner.png)
-
 ## Hi 👋, we're the team behind QuestDB
+
+![Banner with illustration of QuestDB, the open source time series database](/images/org_banner.png)
 
 QuestDB is a high-performance open source database for time series.
 The project is built from scratch in Java and C++, with no dependencies, and is 100% free from garbage collection.
