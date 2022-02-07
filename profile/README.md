@@ -20,7 +20,6 @@ As a sign of our gratitude, we have [QuestDB swag](https://questdb.io/community)
 
 We're on the lookout for talented people to join the QuestDB team in these roles:
 
-- 🆕 [Software Engineer in Test](https://questdb.io/careers/developer-in-test/)
 - [Developer Advocate](https://questdb.io/careers/developer-relations-engineer/)
 - [Core Database Engineers](https://questdb.io/careers/backend-software-engineer/)
 - [Backend Engineers (Python)](https://questdb.io/careers/senior-backend-engineer-python/)
