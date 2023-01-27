@@ -6,7 +6,7 @@ QuestDB is a high-performance open source database for time series.
 The project is built from scratch in Java and C++, with no dependencies, and is 100% free from garbage collection.
 The database is optimized for time series with high-throughput ingestion over InfluxDB Line Protocol and allows users to use SQL as a query language via PostgreSQL wire or REST API.
 
-Our [live demo](https://demo.questdb.io/) includes a 1.6 billion row table with 10 years of NYC taxi trips, 10 years of weather data for joins on the taxi data, and a [geospatial data set](https://questdb.io/blog/2021/10/04/geospatial-timeseries-demo) to try out.
+Our [live demo](https://demo.questdb.io/) includes a 1.6 billion row table with 10 years of NYC taxi trips, 10 years of weather data for joins on the taxi data, [financial market data](https://questdb.io/blog/2022/04/12/demo-live-crypto-data-streamed-with-questdb-and-grafana) streamed in real-time and a [geospatial data set](https://questdb.io/blog/2021/10/04/geospatial-timeseries-demo) to try out.
 
 ## 🤝 Contributing
 
