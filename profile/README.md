@@ -20,8 +20,8 @@ As a sign of our gratitude, we have [QuestDB swag](https://questdb.io/community)
 
 We're on the lookout for talented people to join the QuestDB team in these roles:
 
-- [Senior Python Engineer](https://questdb.io/careers/senior-backend-engineer-python/)
-- [Growth Engineer (open source)](https://questdb.io/careers/growth-engineer-open-source/)
+- [Technical Writer](https://questdb.io/careers/technical-writer/)
+- [Core Database Engineer](https://questdb.io/careers/core-database-engineer/)
 
 
 To find out more about QuestDB, visit our [about us page](https://questdb.io/about-us/).
