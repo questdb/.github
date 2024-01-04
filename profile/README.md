@@ -4,9 +4,10 @@
 
 QuestDB is an open-source time-series database for high throughput ingestion and fast SQL queries with operational simplicity. It supports schema-agnostic ingestion using the InfluxDB line protocol, PostgreSQL wire protocol, and a REST API for bulk imports and exports.
 
-The project is built from scratch in zero-GC Java and C++, without code dependencies.
+The project is built from scratch in zero-GC Java, C++ and Rust, without code dependencies.
 
 Our [live demo](https://demo.questdb.io/) includes a NYC taxi trips dataset of 1.6 billion rows, market data ingested live from the Coinbase API, and a geospatial dataset.
+Our real-time [market data dashboards](https://questdb.io/dashboards/crypto/) are powered by QuestDB and Grafana.
 
 ## 🤝 Contributing
 
@@ -20,7 +21,6 @@ As a sign of our gratitude, we have [QuestDB swag](https://questdb.io/community)
 
 We're on the lookout for talented people to join the QuestDB team in these roles:
 
-- [Technical Writer](https://questdb.io/careers/technical-writer/)
 - [Core Database Engineer](https://questdb.io/careers/core-database-engineer/)
 
 
