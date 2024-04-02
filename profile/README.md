@@ -1,6 +1,6 @@
 ## We're the team behind QuestDB
 
-![Banner with illustration of QuestDB, the open source time series database](/images/org_banner.png)
+![Banner with illustration of QuestDB, the open source time series database](/images/questdb-dashboard.png)
 
 QuestDB is a high performance, open-source database that efficiently stores, accesses and analyzes timestamped data. Through extended SQL and compatibility 
 with your favourite tools, it's quick to get started and simple to apply. QuestDB is designed from the ground up to operate as close to the 
