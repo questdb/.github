@@ -1,4 +1,4 @@
-## We're the team behind QuestDB
+## QuestDB
 
 ![Banner with illustration of QuestDB, the open source time series database](/images/questdb-dashboard.png)
 
@@ -18,7 +18,7 @@ To learn more about QuestDB, check the following:
   * Real-time [market data dashboards](https://questdb.io/dashboards/crypto/) powered by QuestDB and Grafana
  
 * Read the docs to [get started](https://questdb.io/docs/).
-  * Try the [code-based quick starts](https://github.com/questdb/questdb-quickstart).
+  * Try our [quick-start](https://github.com/questdb/questdb-quickstart).
   * Fork our [streaming analytics template](https://github.com/questdb/time-series-streaming-analytics-template)
 
 Join our [active public Slack](https://slack.questdb.io/) and our [community forum](https://community.questdb.io/)
@@ -31,11 +31,11 @@ You can contribute to the QuestDB open source project: source code, documentatio
 
 To get started: 
 
-1. [good first issues](https://github.com/questdb/questdb/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+first+issue%22)
-2. View our [contribution guide](https://github.com/questdb/questdb/blob/master/CONTRIBUTING.md)
-3. Propose some changes by [forking the repo](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) and open a pull request.
+1. [Good first issues](https://github.com/questdb/questdb/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+first+issue%22)
+2. [Contribution guide](https://github.com/questdb/questdb/blob/master/CONTRIBUTING.md)
+3. [Fork the repo](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) and open a pull request.
 
-As a sign of our gratitude, we have [QuestDB swag](https://questdb.io/community) that we send out to our contributors 🙌.
+We send [QuestDB swag](https://questdb.io/community) to our contributors 🙌.
 
 ## 🌍 Building around the world
 
