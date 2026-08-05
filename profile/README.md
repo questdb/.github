@@ -1,6 +1,6 @@
 ## QuestDB
 
-![Banner with illustration of QuestDB, the open source time series database](/images/questdb-dashboard.webp)
+![The QuestDB Web Console showing a live technical-analysis dashboard](/images/questdb-dashboard.webp)
 
 QuestDB is a high performance, open-source database for time series data. 
 It delivers ultra-low latency, high ingestion throughput, and a multi-tier storage engine. 
